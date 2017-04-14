@@ -1,5 +1,5 @@
 //prints Hello World to console
-console.log("Hello World");
+console.log("Hello, World!");
 
 
 
